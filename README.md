@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I’m Batuhan!<br>👀 I’m interested in to improve myself about programming...<br>🌱 I’m currently learning little bit of everything but in these days I focussed JavaScript.<br>⚡ Fun fact: I’m still a student so I still dont know soo much thing. If you have any recommends and advice, you can give them to me and I become so happy.<br>🔭 Yes I'm still a student at the university, so I'm technically unemployed, but I hope I can find a job after feeling enough.
+👋 Hello, I’m Batuhan!<br>👀 I’m interested in to improve myself about programming...<br>🌱 I’m currently learning little bit of everything but in these days I focussed JavaScript.<br>⚡ Fun fact: Yes, I finally graduated but I am still open to information and suggestions.. If you have any recommends and advice, you can give them to me and I become so happy.<br>🔭 And yes I just graduated from university, so I'm technically unemployed, but I hope I can find a job after feeling enough.
 
 
 ## 🌐 Socials:
